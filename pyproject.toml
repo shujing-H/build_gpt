@@ -9,4 +9,5 @@ dependencies = [
     "numpy>=2.5.3",
     "polars>=2.0.0",
     "torch>=2.14.1",
+    "transformers>=5.19.0",
 ]
